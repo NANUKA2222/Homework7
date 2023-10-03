@@ -1,0 +1,166 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700;800&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+.body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   background-image: url(assets/Oval\ Copy\ 30.svg),url(assets/Oval\ Copy\ 32.svg);
+   background-position: right 50vw bottom 50vh,  left 51vw top 26vw;
+   background-repeat: no-repeat;
+    
+    
+}
+
+
+
+
+
+.box{
+/* border: 1px solid black; */
+border-radius: 15px;
+width: 350px;
+height: 374px;
+background-color: #FFFFFF;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+ .topbox{
+    position: relative;
+  
+  width: 550px;
+  height: 145px;
+  /* border: 1px solid black; */
+  background-color: #41CBD3 ;
+  margin: 0px 0px 229px 0px;
+  border-radius: 15px 15px 0px 0px;
+  background-image:  url(./assets/Oval\ Copy\ 26.svg);
+
+  
+
+
+ }
+ 
+ .image2{
+     position: relative;
+     top: 70px;
+     left: 125px;
+     right: 127px;
+     bottom: 186px;
+    
+
+ }
+ .Victor{
+color: #2E3349;
+position: relative;
+top: 72px;
+left: 125px;
+right: 145px;
+bottom: 100px;
+width: 104px;
+height: 18px;
+color: #2E3349;
+line-height: 22,3px;
+font-family:'Kumbh Sans';
+font-weight: 1000px;
+font-size: 18px;
+
+
+ }
+ .number {
+    width: 22px;
+    height: 18px;
+    font-family: 'Kumbh Sans';
+    font-size: 16px;
+    color: #6B7082;
+    position: relative;
+    top: 55px;
+    left:230px ;
+    right:100px ;
+    
+
+
+
+ }
+ .London{
+  width: 50px;
+  height: 14px;
+  font-family: 'Kumbh Sans';
+  font-weight: 400px;
+  font-size: 14px;
+  color: #6B7082;
+  position: relative;
+  top: 63px ;
+  left:150px ;
+  right: 150px;
+ }
+.box2{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    top: 458px;
+    /* border: 1px solid black; */
+    border-top: 1px solid  #E8E9EC;
+    width: 350px;
+    height: 88px;
+
+   
+   
+
+}
+  .info1{
+
+width: 35px;
+height: 18px;
+font-family: Kumbh Sans;
+font-weight: 700px;
+color: #2E3349;
+display: flex;
+justify-content: space-around;
+color: #2E3349;
+position: relative;
+bottom: -30px;
+  }
+
+.info1{
+    height: 18px;
+    width: 35px;
+    font-size: 18px;
+    font-family: Kumbh Sans;
+    display: flex;
+    justify-content: space-around;
+
+
+
+}
+.info2{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 40px;
+    color: #6B7082;
+    letter-spacing: 2px;
+}
+
+.info11{
+
+    position: relative;
+    left: 20px;
+}
+
+
